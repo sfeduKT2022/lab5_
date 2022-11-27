@@ -1,0 +1,918 @@
+mark: Hummer
+color: black
+serial number: 1660377941
+registration number: A561RG
+doors count: 2
+release date is 24.8.1960
+type: jeep
+cost: 2191$
+
+mark: Dodge
+color: red
+serial number: 8162836956
+registration number: A654TZ
+doors count: 2
+release date is 7.10.2014
+type: truck
+cost: 4005$
+
+mark: Hyundai
+color: yellow
+serial number: 8035409565
+registration number: A573GK
+doors count: 2
+release date is 15.11.1955
+type: bus
+cost: 4156$
+
+mark: Chevrolet
+color: blue
+serial number: 7601656193
+registration number: A375LV
+doors count: 4
+release date is 13.3.1997
+type: jeep
+cost: 2762$
+
+mark: Kamaz
+color: blue
+serial number: 9461924999
+registration number: A843OA
+doors count: 2
+release date is 8.7.1996
+type: bus
+cost: 4410$
+
+mark: Kamaz
+color: gray
+serial number: 1747613431
+registration number: A313SH
+doors count: 4
+release date is 25.7.1996
+type: bus
+cost: 3534$
+
+mark: Chevrolet
+color: gray
+serial number: 7144297826
+registration number: A791LI
+doors count: 4
+release date is 12.12.1998
+type: truck
+cost: 2090$
+
+mark: Jeep
+color: white
+serial number: 6193480748
+registration number: A059CX
+doors count: 4
+release date is 19.9.2021
+type: bus
+cost: 2521$
+
+mark: Hyundai
+color: white
+serial number: 1953370357
+registration number: A044OT
+doors count: 2
+release date is 18.8.1994
+type: truck
+cost: 4070$
+
+mark: Chevrolet
+color: gray
+serial number: 7645000681
+registration number: A232RS
+doors count: 2
+release date is 20.8.1989
+type: light
+cost: 4024$
+
+mark: Honda
+color: gray
+serial number: 2630190873
+registration number: A361CK
+doors count: 4
+release date is 25.5.2007
+type: jeep
+cost: 2616$
+
+mark: Ford
+color: gray
+serial number: 1459600319
+registration number: A275NC
+doors count: 2
+release date is 6.3.2010
+type: light
+cost: 2483$
+
+mark: Honda
+color: black
+serial number: 6807405041
+registration number: A995MS
+doors count: 4
+release date is 17.12.1986
+type: light
+cost: 2645$
+
+mark: Dodge
+color: yellow
+serial number: 3619454601
+registration number: A192AD
+doors count: 4
+release date is 8.9.1983
+type: jeep
+cost: 3776$
+
+mark: Chevrolet
+color: red
+serial number: 9042019268
+registration number: A765FG
+doors count: 2
+release date is 23.4.2007
+type: bus
+cost: 4465$
+
+mark: Kamaz
+color: black
+serial number: 6177036270
+registration number: A543JV
+doors count: 2
+release date is 14.6.1964
+type: jeep
+cost: 2822$
+
+mark: Honda
+color: white
+serial number: 7649658110
+registration number: A572KC
+doors count: 4
+release date is 14.8.1976
+type: bus
+cost: 2618$
+
+mark: Dodge
+color: gray
+serial number: 9761398653
+registration number: A383OX
+doors count: 2
+release date is 12.6.2019
+type: bus
+cost: 4388$
+
+mark: Hyundai
+color: blue
+serial number: 6381203127
+registration number: A069QR
+doors count: 4
+release date is 24.4.1987
+type: jeep
+cost: 2869$
+
+mark: Jeep
+color: blue
+serial number: 5337890224
+registration number: A348FM
+doors count: 2
+release date is 9.9.1993
+type: truck
+cost: 3536$
+
+mark: Chevrolet
+color: black
+serial number: 7062905112
+registration number: A484LZ
+doors count: 2
+release date is 21.9.1993
+type: bus
+cost: 3426$
+
+mark: Dodge
+color: yellow
+serial number: 2428039902
+registration number: A883RK
+doors count: 4
+release date is 22.11.1992
+type: bus
+cost: 3369$
+
+mark: Dodge
+color: white
+serial number: 4395897584
+registration number: A576MF
+doors count: 2
+release date is 5.11.1992
+type: bus
+cost: 4235$
+
+mark: Dodge
+color: red
+serial number: 4005728698
+registration number: A395KG
+doors count: 2
+release date is 16.10.1968
+type: bus
+cost: 2465$
+
+mark: Dodge
+color: gray
+serial number: 2160891211
+registration number: A775ZS
+doors count: 4
+release date is 11.7.1996
+type: light
+cost: 4651$
+
+mark: Dodge
+color: yellow
+serial number: 9352076634
+registration number: A120MW
+doors count: 2
+release date is 17.1.1996
+type: light
+cost: 4677$
+
+mark: Jeep
+color: gray
+serial number: 7144949112
+registration number: A525AS
+doors count: 4
+release date is 17.4.2017
+type: bus
+cost: 3856$
+
+mark: Honda
+color: blue
+serial number: 5870257335
+registration number: A802UM
+doors count: 2
+release date is 21.12.1986
+type: bus
+cost: 2881$
+
+mark: Jeep
+color: gray
+serial number: 6792483176
+registration number: A961PB
+doors count: 2
+release date is 3.4.2000
+type: bus
+cost: 2297$
+
+mark: Hummer
+color: gray
+serial number: 4811652977
+registration number: A459AW
+doors count: 2
+release date is 4.4.2000
+type: jeep
+cost: 4960$
+
+mark: Honda
+color: yellow
+serial number: 2728081167
+registration number: A301QO
+doors count: 2
+release date is 6.5.1987
+type: light
+cost: 2981$
+
+mark: Hummer
+color: gray
+serial number: 9626418612
+registration number: A367TA
+doors count: 4
+release date is 16.5.1957
+type: truck
+cost: 4494$
+
+mark: Chevrolet
+color: black
+serial number: 5976964572
+registration number: A341SR
+doors count: 2
+release date is 6.6.1960
+type: jeep
+cost: 3463$
+
+mark: Honda
+color: gray
+serial number: 6619452026
+registration number: A821HB
+doors count: 4
+release date is 18.6.1956
+type: jeep
+cost: 4683$
+
+mark: Jeep
+color: red
+serial number: 7028793084
+registration number: A010UZ
+doors count: 2
+release date is 7.3.2000
+type: bus
+cost: 2664$
+
+mark: Ford
+color: blue
+serial number: 6974473544
+registration number: A737MS
+doors count: 2
+release date is 1.9.1955
+type: bus
+cost: 2441$
+
+mark: Honda
+color: yellow
+serial number: 7212760030
+registration number: A395NB
+doors count: 4
+release date is 24.11.2008
+type: truck
+cost: 3989$
+
+mark: Kamaz
+color: white
+serial number: 1519551208
+registration number: A607TI
+doors count: 4
+release date is 23.7.1982
+type: light
+cost: 3373$
+
+mark: Chevrolet
+color: black
+serial number: 5599658250
+registration number: A779PU
+doors count: 4
+release date is 18.9.1979
+type: jeep
+cost: 3160$
+
+mark: Dodge
+color: red
+serial number: 4402418728
+registration number: A328FQ
+doors count: 4
+release date is 22.8.1975
+type: truck
+cost: 2922$
+
+mark: Chevrolet
+color: red
+serial number: 7144297826
+registration number: A334RI
+doors count: 2
+release date is 24.4.2008
+type: bus
+cost: 2534$
+
+mark: Dodge
+color: gray
+serial number: 6792483176
+registration number: A180PS
+doors count: 2
+release date is 24.5.2012
+type: bus
+cost: 3109$
+
+mark: Kamaz
+color: black
+serial number: 1791510947
+registration number: A681EN
+doors count: 2
+release date is 21.2.1990
+type: truck
+cost: 4513$
+
+mark: Ford
+color: white
+serial number: 2519139250
+registration number: A984LE
+doors count: 4
+release date is 15.2.1980
+type: bus
+cost: 3560$
+
+mark: Hummer
+color: red
+serial number: 9546798423
+registration number: A260DA
+doors count: 2
+release date is 6.4.1983
+type: truck
+cost: 4641$
+
+mark: Kamaz
+color: white
+serial number: 7828977297
+registration number: A990OQ
+doors count: 4
+release date is 6.5.2022
+type: jeep
+cost: 2825$
+
+mark: Chevrolet
+color: white
+serial number: 6398166040
+registration number: A200QY
+doors count: 2
+release date is 21.12.2000
+type: light
+cost: 2613$
+
+mark: Ford
+color: blue
+serial number: 7943018484
+registration number: A323IG
+doors count: 4
+release date is 24.11.1979
+type: jeep
+cost: 3109$
+
+mark: Hyundai
+color: gray
+serial number: 6792483176
+registration number: A581WV
+doors count: 2
+release date is 7.11.1979
+type: light
+cost: 4535$
+
+mark: Hyundai
+color: red
+serial number: 1459600319
+registration number: A901NV
+doors count: 4
+release date is 21.1.1955
+type: light
+cost: 3813$
+
+mark: Dodge
+color: red
+serial number: 5011479778
+registration number: A418NB
+doors count: 4
+release date is 6.4.1990
+type: light
+cost: 2126$
+
+mark: Dodge
+color: blue
+serial number: 6683447808
+registration number: A301FO
+doors count: 2
+release date is 21.6.2015
+type: bus
+cost: 2734$
+
+mark: Hyundai
+color: white
+serial number: 9332425981
+registration number: A401DE
+doors count: 2
+release date is 17.6.2016
+type: bus
+cost: 3659$
+
+mark: Dodge
+color: black
+serial number: 1314265962
+registration number: A204ZO
+doors count: 4
+release date is 21.3.1993
+type: jeep
+cost: 4991$
+
+mark: Honda
+color: yellow
+serial number: 6835238719
+registration number: A187QL
+doors count: 4
+release date is 10.2.1964
+type: light
+cost: 3269$
+
+mark: Dodge
+color: yellow
+serial number: 9042019268
+registration number: A518MN
+doors count: 4
+release date is 9.1.2013
+type: truck
+cost: 3946$
+
+mark: Kamaz
+color: white
+serial number: 7144949112
+registration number: A851TF
+doors count: 4
+release date is 15.9.1985
+type: bus
+cost: 2937$
+
+mark: Jeep
+color: blue
+serial number: 9813960244
+registration number: A603ON
+doors count: 4
+release date is 24.1.2021
+type: truck
+cost: 3935$
+
+mark: Honda
+color: blue
+serial number: 7065074931
+registration number: A199BY
+doors count: 4
+release date is 22.7.1984
+type: bus
+cost: 4172$
+
+mark: Ford
+color: gray
+serial number: 9139187408
+registration number: A802UP
+doors count: 4
+release date is 17.9.1988
+type: light
+cost: 3869$
+
+mark: Jeep
+color: red
+serial number: 5565075641
+registration number: A549FV
+doors count: 2
+release date is 19.8.1962
+type: jeep
+cost: 2727$
+
+mark: Hyundai
+color: yellow
+serial number: 5828811413
+registration number: A118WN
+doors count: 2
+release date is 4.2.1972
+type: light
+cost: 2391$
+
+mark: Chevrolet
+color: black
+serial number: 5827339935
+registration number: A349RJ
+doors count: 4
+release date is 16.6.1961
+type: bus
+cost: 2352$
+
+mark: Honda
+color: yellow
+serial number: 9131517218
+registration number: A463WN
+doors count: 4
+release date is 6.8.1956
+type: light
+cost: 3590$
+
+mark: Kamaz
+color: white
+serial number: 8559573326
+registration number: A627HW
+doors count: 2
+release date is 8.8.2018
+type: jeep
+cost: 3372$
+
+mark: Hummer
+color: red
+serial number: 6745442027
+registration number: A520PR
+doors count: 2
+release date is 24.11.1979
+type: truck
+cost: 4890$
+
+mark: Kamaz
+color: red
+serial number: 5910664069
+registration number: A363MX
+doors count: 2
+release date is 6.3.2010
+type: light
+cost: 2101$
+
+mark: Ford
+color: blue
+serial number: 4594011203
+registration number: A530QG
+doors count: 4
+release date is 9.12.2016
+type: truck
+cost: 2113$
+
+mark: Dodge
+color: yellow
+serial number: 4707506838
+registration number: A309IS
+doors count: 4
+release date is 5.10.2019
+type: light
+cost: 2389$
+
+mark: Jeep
+color: black
+serial number: 8443887746
+registration number: A205RV
+doors count: 4
+release date is 19.6.2022
+type: truck
+cost: 2115$
+
+mark: Hyundai
+color: black
+serial number: 5064728664
+registration number: A508CT
+doors count: 4
+release date is 16.7.1975
+type: light
+cost: 2100$
+
+mark: Hummer
+color: red
+serial number: 9888278524
+registration number: A639AN
+doors count: 4
+release date is 16.8.2000
+type: bus
+cost: 4883$
+
+mark: Hyundai
+color: red
+serial number: 1440282856
+registration number: A641AD
+doors count: 4
+release date is 18.8.2000
+type: bus
+cost: 2586$
+
+mark: Jeep
+color: gray
+serial number: 7638901885
+registration number: A421MO
+doors count: 2
+release date is 8.8.2000
+type: jeep
+cost: 3805$
+
+mark: Ford
+color: blue
+serial number: 2060098802
+registration number: A007YT
+doors count: 4
+release date is 9.10.1997
+type: jeep
+cost: 2090$
+
+mark: Dodge
+color: black
+serial number: 7784627320
+registration number: A106BX
+doors count: 2
+release date is 8.10.1963
+type: truck
+cost: 4600$
+
+mark: Dodge
+color: red
+serial number: 6233175411
+registration number: A860XS
+doors count: 2
+release date is 19.1.2005
+type: light
+cost: 3387$
+
+mark: Jeep
+color: white
+serial number: 4237315214
+registration number: A712BI
+doors count: 2
+release date is 18.11.2015
+type: bus
+cost: 3528$
+
+mark: Kamaz
+color: white
+serial number: 1917854962
+registration number: A787DK
+doors count: 4
+release date is 19.5.1999
+type: truck
+cost: 4906$
+
+mark: Ford
+color: yellow
+serial number: 1434019803
+registration number: A414LW
+doors count: 4
+release date is 7.5.1999
+type: light
+cost: 4483$
+
+mark: Chevrolet
+color: black
+serial number: 1749263435
+registration number: A755AK
+doors count: 4
+release date is 7.12.2011
+type: truck
+cost: 4279$
+
+mark: Hyundai
+color: black
+serial number: 9182215780
+registration number: A727YH
+doors count: 2
+release date is 17.6.2016
+type: jeep
+cost: 2422$
+
+mark: Dodge
+color: white
+serial number: 9782636637
+registration number: A061MF
+doors count: 2
+release date is 10.9.1979
+type: bus
+cost: 2406$
+
+mark: Jeep
+color: yellow
+serial number: 3671318225
+registration number: A973MG
+doors count: 2
+release date is 16.2.1991
+type: truck
+cost: 4408$
+
+mark: Dodge
+color: blue
+serial number: 9251843419
+registration number: A833PA
+doors count: 4
+release date is 4.6.1990
+type: bus
+cost: 4366$
+
+mark: Ford
+color: blue
+serial number: 7660116740
+registration number: A992QX
+doors count: 2
+release date is 11.11.1991
+type: truck
+cost: 2362$
+
+mark: Ford
+color: black
+serial number: 5565075641
+registration number: A947CE
+doors count: 2
+release date is 20.9.1967
+type: bus
+cost: 3878$
+
+mark: Kamaz
+color: gray
+serial number: 6992964362
+registration number: A317OI
+doors count: 2
+release date is 23.7.2006
+type: truck
+cost: 4341$
+
+mark: Ford
+color: yellow
+serial number: 9042019268
+registration number: A964JL
+doors count: 2
+release date is 14.5.1990
+type: truck
+cost: 2085$
+
+mark: Kamaz
+color: blue
+serial number: 9307969596
+registration number: A179UC
+doors count: 2
+release date is 8.12.1995
+type: jeep
+cost: 2089$
+
+mark: Ford
+color: white
+serial number: 9904968757
+registration number: A733RB
+doors count: 2
+release date is 13.12.2019
+type: truck
+cost: 2113$
+
+mark: Dodge
+color: white
+serial number: 3754110903
+registration number: A877AJ
+doors count: 4
+release date is 20.9.1965
+type: bus
+cost: 3249$
+
+mark: Kamaz
+color: white
+serial number: 5658971053
+registration number: A027UK
+doors count: 2
+release date is 5.3.1971
+type: jeep
+cost: 3640$
+
+mark: Ford
+color: gray
+serial number: 3298352242
+registration number: A312YK
+doors count: 2
+release date is 2.10.1991
+type: jeep
+cost: 2981$
+
+mark: Kamaz
+color: blue
+serial number: 9994079414
+registration number: A090GZ
+doors count: 2
+release date is 24.4.1987
+type: light
+cost: 2843$
+
+mark: Hummer
+color: white
+serial number: 9318483682
+registration number: A072IQ
+doors count: 2
+release date is 7.3.2000
+type: bus
+cost: 2997$
+
+mark: Hyundai
+color: blue
+serial number: 5024453201
+registration number: A881IL
+doors count: 4
+release date is 12.8.2007
+type: bus
+cost: 4336$
+
+mark: Chevrolet
+color: blue
+serial number: 9190858534
+registration number: A260IH
+doors count: 4
+release date is 5.12.2009
+type: light
+cost: 2123$
+
+mark: Dodge
+color: white
+serial number: 3106857437
+registration number: A568HI
+doors count: 4
+release date is 9.7.1978
+type: bus
+cost: 3672$
+
+mark: Jeep
+color: yellow
+serial number: 6045735525
+registration number: A725TK
+doors count: 2
+release date is 5.7.1978
+type: jeep
+cost: 2026$
+
+mark: Honda
+color: gray
+serial number: 1766170475
+registration number: A272LA
+doors count: 2
+release date is 12.1.1975
+type: jeep
+cost: 3255$
+
+mark: Jeep
+color: blue
+serial number: 9013397275
+registration number: A287AR
+doors count: 4
+release date is 14.6.1981
+type: jeep
+cost: 4670$
+

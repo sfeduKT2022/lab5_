@@ -1,0 +1,4 @@
+﻿  CarStruct.cpp
+C:\Users\profile\source\repos\CarStruct\CarStruct\CarStruct.cpp(72,13): warning C4101: carsCount: неиспользованная локальная переменная
+C:\Users\profile\source\repos\CarStruct\CarStruct\CarStruct.cpp(410,12): warning C4476: "printf": неизвестный символ поля типа "r" в описателе формата
+  CarStruct.vcxproj -> C:\Users\profile\source\repos\CarStruct\x64\Debug\CarStruct.exe
